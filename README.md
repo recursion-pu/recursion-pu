@@ -6,6 +6,19 @@ As students who are not only passionate about coding and algorithms but also the
 
 ---
 
+
+## 📱 **Connect with us:** 📱
+
+<p align="left">
+  <a href="https://instagram.com/recursion_pu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="recursion_pu" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61557433898782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sfsa" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/company/recursion-pu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/recursion-pu/" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@recursionpu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@recursionpu" height="30" width="40" /></a>
+</p>
+
+
+---
+
 ## 🎨 **Recursion Theme** 🎨
 ### **"SPECTRUM OF INNOVATION"** 🌈
 
