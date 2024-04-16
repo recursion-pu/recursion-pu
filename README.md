@@ -10,6 +10,7 @@ As students who are not only passionate about coding and algorithms but also the
 ## 📱 **Connect with us:** 📱
 
 <p align="left">
+  <a href="https://www.recursionpu.in" target="blank"><img align="center" src="https://www.svgrepo.com/show/122751/internet.svg" alt="recursion_pu" height="30" width="40" /></a>
   <a href="https://instagram.com/recursion_pu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="recursion_pu" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=61557433898782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sfsa" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/company/recursion-pu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/recursion-pu/" height="30" width="40" /></a>
